@@ -20,7 +20,8 @@ jQuery(document).ready(function(e) {
     $(document).on('click','.clear_logs',function(e){
         e.preventDefault();
         var allData = new FormData();
-        var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';        
+        var url = baseUrl + '/homeGate/function.php';
+        // var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';    
         allData.append('clear_logs',true);
         jQuery.ajax({
             url: url,
@@ -60,7 +61,8 @@ jQuery(document).ready(function(e) {
         var jsonFileName = 'Data'+new Date().getTime()+'.json';
         var form = $('#search_form')[0];
         var allData = new FormData(form);
-        var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';        
+        var url = baseUrl + '/homeGate/function.php';
+        // var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';        
         allData.append('log_file_name', logFileName);
         allData.append('json_file_name', jsonFileName);
         allData.append('search_form',true);
@@ -128,7 +130,8 @@ function getNextPage(nextPage,lastPage,nPageUrl,log_file_name,json_file_name){
     var flag = true;
     if(flag){
         flag = false;
-        var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';
+        var url = baseUrl + '/homeGate/function.php';
+        // var url = baseUrl+'/parser.hom-gate.ch/homeGate_scrap/function.php';
         jQuery.ajax({
             url: url,
             data: { 

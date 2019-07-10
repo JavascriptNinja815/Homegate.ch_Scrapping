@@ -1,6 +1,0 @@
-<div class="line"><span class="datetime">14th December at 13:25:33</span> <span class="message message-success">  Scrapping started  </span> </div>
-<div class="line"><span class="datetime">14th December at 13:25:35</span> <span class="message message-success">  Fetching the first page now.. </span> </div>
-<div class="line"><span class="datetime">14th December at 13:25:36</span> <span class="message message-success"> Took 0.93 seconds to transfer a request to https://www.homegate.ch/en </span> </div>
-<div class="line"><span class="datetime">14th December at 13:25:36</span> <span class="message message-success"> Found total 1 pages to fetch, 20 Real estate in a page </span> </div>
-<div class="line"><span class="datetime">14th December at 13:25:36</span> <span class="message message-success"> Fetching 1 of 1 page </span> </div>
-<div class="line"><span class="datetime">14th December at 13:25:36</span> <span class="message message-success"> 1 page successfully fetched! HTTP Code: 200 </span> </div>

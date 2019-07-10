@@ -1,3 +1,0 @@
-<div class="line"><span class="datetime">5th July at 07:36:30</span> <span class="message message-success">  Scrapping started  </span> </div>
-<div class="line"><span class="datetime">5th July at 07:36:32</span> <span class="message message-success">  Fetching the first page now.. </span> </div>
-<div class="line"><span class="datetime">5th July at 07:36:32</span> <span class="message message-success"> Failed to get url! Something wrong! </span> </div>

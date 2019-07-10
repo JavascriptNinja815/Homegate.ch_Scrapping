@@ -1,6 +1,0 @@
-<div class="line"><span class="datetime">21st January at 05:46:37</span> <span class="message message-success">  Scrapping started  </span> </div>
-<div class="line"><span class="datetime">21st January at 05:46:38</span> <span class="message message-success">  Fetching the first page now.. </span> </div>
-<div class="line"><span class="datetime">21st January at 05:46:39</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/real-estate/canton-fribourg/matching-list?ag=4000&ah=6000&tab=list </span> </div>
-<div class="line"><span class="datetime">21st January at 05:46:39</span> <span class="message message-success"> Found total 1 pages to fetch, 20 Real estate in a page </span> </div>
-<div class="line"><span class="datetime">21st January at 05:46:39</span> <span class="message message-success"> Fetching 1 of 1 page </span> </div>
-<div class="line"><span class="datetime">21st January at 05:46:39</span> <span class="message message-success"> 1 page successfully fetched! HTTP Code: 200 </span> </div>
