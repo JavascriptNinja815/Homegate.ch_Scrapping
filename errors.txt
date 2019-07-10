@@ -1,0 +1,1 @@
+[26-Oct-2018 04:50:19 UTC] PHP Notice:  Undefined offset: 1 in /home/www/natalia-strelets.100webcustomers.com/parser.hom-gate.ch/homeGate_scrap/function.php on line 143

@@ -1,0 +1,46 @@
+<div class="line"><span class="datetime">1st March at 07:06:29</span> <span class="message message-success">  Scrapping started  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:30</span> <span class="message message-success">  Fetching the first page now.. </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:32</span> <span class="message message-success"> Took 0.97 seconds to transfer a request to https://www.homegate.ch/rent/real-estate/canton-geneva/matching-list?ag=2300&ah=4000&tab=list </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:32</span> <span class="message message-success"> Found total 16  pages to fetch, 20 Real estate in a page </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:32</span> <span class="message message-success"> Fetching 1  of 16  page </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:32</span> <span class="message message-success"> Fetching 1 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:33</span> <span class="message message-success"> Took 1.19 seconds to transfer a request to https://www.homegate.ch/rent/2147640347 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:33</span> <span class="message message-success"> Fetching 2 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:34</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/2147697619 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:34</span> <span class="message message-success"> Fetching 3 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:35</span> <span class="message message-success"> Took 0.87 seconds to transfer a request to https://www.homegate.ch/rent/2147673782 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:35</span> <span class="message message-success"> Fetching 4 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:36</span> <span class="message message-success"> Took 0.81 seconds to transfer a request to https://www.homegate.ch/rent/2147644861 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:36</span> <span class="message message-success"> Fetching 5 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:36</span> <span class="message message-success"> Took 0.86 seconds to transfer a request to https://www.homegate.ch/rent/109117809 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:36</span> <span class="message message-success"> Fetching 6 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:37</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/109292945 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:37</span> <span class="message message-success"> Fetching 7 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:38</span> <span class="message message-success"> Took 0.83 seconds to transfer a request to https://www.homegate.ch/rent/108897562 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:38</span> <span class="message message-success"> Fetching 8 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:39</span> <span class="message message-success"> Took 0.88 seconds to transfer a request to https://www.homegate.ch/rent/109662014 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:39</span> <span class="message message-success"> Fetching 9 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:40</span> <span class="message message-success"> Took 0.91 seconds to transfer a request to https://www.homegate.ch/rent/2147654308 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:40</span> <span class="message message-success"> Fetching 10 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:41</span> <span class="message message-success"> Took 0.86 seconds to transfer a request to https://www.homegate.ch/rent/109647651 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:41</span> <span class="message message-success"> Fetching 11 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:42</span> <span class="message message-success"> Took 0.85 seconds to transfer a request to https://www.homegate.ch/rent/109451850 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:42</span> <span class="message message-success"> Fetching 12 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:43</span> <span class="message message-success"> Took 1.22 seconds to transfer a request to https://www.homegate.ch/rent/2147690734 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:43</span> <span class="message message-success"> Fetching 13 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:44</span> <span class="message message-success"> Took 0.88 seconds to transfer a request to https://www.homegate.ch/rent/109556518 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:44</span> <span class="message message-success"> Fetching 14 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:45</span> <span class="message message-success"> Took 0.88 seconds to transfer a request to https://www.homegate.ch/rent/2147700940 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:45</span> <span class="message message-success"> Fetching 15 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:46</span> <span class="message message-success"> Took 0.86 seconds to transfer a request to https://www.homegate.ch/rent/109330383 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:46</span> <span class="message message-success"> Fetching 16 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:47</span> <span class="message message-success"> Took 0.81 seconds to transfer a request to https://www.homegate.ch/rent/2147651912 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:47</span> <span class="message message-success"> Fetching 17 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:48</span> <span class="message message-success"> Took 0.86 seconds to transfer a request to https://www.homegate.ch/rent/109419176 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:48</span> <span class="message message-success"> Fetching 18 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:48</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/2147675842 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:48</span> <span class="message message-success"> Fetching 19 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:49</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/2147675841 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:49</span> <span class="message message-success"> Fetching 20 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:50</span> <span class="message message-success"> Took 0.88 seconds to transfer a request to https://www.homegate.ch/rent/2147680617 </span> </div>
+<div class="line"><span class="datetime">1st March at 07:06:50</span> <span class="message message-success"> 1  page successfully fetched! HTTP Code: 200 </span> </div>

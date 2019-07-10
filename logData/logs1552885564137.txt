@@ -1,0 +1,12 @@
+<div class="line"><span class="datetime">18th March at 05:06:05</span> <span class="message message-success">  Scrapping started  </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:06</span> <span class="message message-success">  Fetching the first page now.. </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:07</span> <span class="message message-success"> Took 0.83 seconds to transfer a request to https://www.homegate.ch/rent/real-estate/canton-stgallen/matching-list?ag=4000&ah=6000&tab=list </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:07</span> <span class="message message-success"> Found total 1  pages to fetch, 20 Real estate in a page </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:07</span> <span class="message message-success"> Fetching 1  of 1  page </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:07</span> <span class="message message-success"> Fetching 1 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:08</span> <span class="message message-success"> Took 0.92 seconds to transfer a request to https://www.homegate.ch/rent/109615909 </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:08</span> <span class="message message-success"> Fetching 2 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:09</span> <span class="message message-success"> Took 0.82 seconds to transfer a request to https://www.homegate.ch/rent/2147688888 </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:09</span> <span class="message message-success"> Fetching 3 of 20 Real estate on page 1  </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:10</span> <span class="message message-success"> Took 0.85 seconds to transfer a request to https://www.homegate.ch/rent/109445410 </span> </div>
+<div class="line"><span class="datetime">18th March at 05:06:10</span> <span class="message message-success"> 1  page successfully fetched! HTTP Code: 200 </span> </div>
